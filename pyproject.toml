@@ -8,6 +8,7 @@ dependencies = [
     "dagster>=1.13.9",
     "deltalake>=1.6.0",
     "duckdb>=1.0.0",
+    "httpx>=0.28.1",
     "polars>=1.41.2",
     "pre-commit>=4.6.0",
     "soda-core-duckdb>=3.5.6",

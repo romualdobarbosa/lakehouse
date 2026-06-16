@@ -2,3 +2,4 @@
 ./data
 .venv
 lakehouse-ceap-receita-roadmap.md
+.ruff_cache
